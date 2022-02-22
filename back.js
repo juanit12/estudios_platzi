@@ -1,0 +1,1 @@
+document.write("este es un archivo js disfutalo :)");
